@@ -1,4 +1,4 @@
-# Welcome to my ePortfolio Repository!
+# Welcome to my ePortfolio repository!
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TRS1225/TRS1225.github.io/blob/main/hello1.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TRS1225/TRS1225.github.io/blob/main/hello1.jpg">
